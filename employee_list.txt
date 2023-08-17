@@ -1,0 +1,14 @@
+
+				*************************************
+
+				Employee Name : Kofi
+
+				Employee Age : 35
+
+				Employee Gender : Male
+
+				Employee Role : Pharmacist
+
+				Employee Salary : 4
+
+				*************************************

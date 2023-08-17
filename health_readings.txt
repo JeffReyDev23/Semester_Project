@@ -1,0 +1,32 @@
+
+				*************************************
+
+				Patient Name : Jemima Sinclair
+
+				Patient Age : 23
+
+				Patient Gender : Female
+
+				Blood Pressure : 120/80
+
+				Weight (Kg) : 56
+
+				Temperature (Celcius) : 34
+
+				*************************************
+
+				*************************************
+
+				Patient Name : Jeffrey Montana
+
+				Patient Age : 12
+
+				Patient Gender : Male
+
+				Blood Pressure : 120/80
+
+				Weight (Kg) : 45
+
+				Temperature (Celcius) : 32
+
+				*************************************

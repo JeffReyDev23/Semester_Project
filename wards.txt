@@ -1,0 +1,5 @@
+
+			Ward Name: Male Ward
+				Capacity: 35 beds
+
+			Occupied Beds: 0

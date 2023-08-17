@@ -1,0 +1,2 @@
+Lonart,35,450
+Ferroglobin,10,230
